@@ -1,6 +1,7 @@
 package com.bridgelabz.day13;
 
-public class Generics  <T extends Comparable> {
+public class Generics  <T extends Comparable> 
+{
     T var1;
     T var2;
     T vare3;
