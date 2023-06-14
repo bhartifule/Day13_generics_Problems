@@ -1,7 +1,7 @@
 package com.bridgelabz.day13;
 
 public class Generics {
-	static void max_variables(String str1, String str2, String str3){
+	static void max_variables(String str1, String str2, String str3) {
         if(str1.compareTo(str2) > 0){
             if(str1.compareTo(str3) > 0){
                 System.out.println( str1 + " is Maximum of three strings ");
