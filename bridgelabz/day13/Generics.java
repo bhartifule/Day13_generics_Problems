@@ -1,6 +1,6 @@
 package com.bridgelabz.day13;
 
-public class Generics <T extends Comparable> {
+public class Generics <T extends Comparable>  {
     T[] array;
 
     Generics(T[] arr1) {
