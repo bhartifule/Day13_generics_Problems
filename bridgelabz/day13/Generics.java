@@ -1,7 +1,7 @@
 package com.bridgelabz.day13;
 
 public class Generics {
-	static void max_variables(Float num1, Float num2, Float num3){
+	static void max_variables(Float num1, Float num2, Float num3) {
         if(num1.compareTo(num2) > 0){
             if(num1.compareTo(num3) > 0){
                 System.out.println( num1 + " is Maximum of three float numbers ");
