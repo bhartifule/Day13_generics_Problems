@@ -1,6 +1,6 @@
 package com.bridgelabz.day13;
 
-public class Generics  {
+public class Generics   {
 	static <P extends Comparable> void max_variables( P str1, P str2, P str3){
 
         if(str1.compareTo(str2) > 0){
