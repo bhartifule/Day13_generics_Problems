@@ -1,6 +1,6 @@
 package com.bridgelabz.day13;
 
-public class Generics {
+public class Generics { 
 	 static void max_variables(Integer num1, Integer num2, Integer num3){
          if(num1.compareTo(num2) > 0){
              if(num1.compareTo(num3) > 0){
